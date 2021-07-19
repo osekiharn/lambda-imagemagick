@@ -1,2 +1,9 @@
 node_modules
+dist
+tmp
+.env
+_index.js
+resize.js
+bookmarklet.js
+deploy.zip
 index.html
